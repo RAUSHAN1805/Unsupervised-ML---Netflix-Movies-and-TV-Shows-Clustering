@@ -1,13 +1,11 @@
-# Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering
-Business Context
+Netflix is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.
 
-This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
+Get ready to unlock hidden potential! This project meticulously addresses data quality issues, transforming raw information into a powerful resource.
 
-Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
+This project harnesses machine learning to group Netflix's vast library of 7,000+ movies and shows by content, helping users discover hidden gems and navigate the platform effortlessly.
 
-In this project, you are required to do
+To gain insights into the diverse content offered by Netflix, we are going to analyze the dataset containing details about movies and TV shows. We will employee descriptive statistics to understand the distribution of key variables and create visualizations like scatterplots, histograms, line charts, heatmaps etc to explore relationships between them.
 
-Exploratory Data Analysis
-Understanding what type content is available in different countries
-If Netflix has been increasingly focusing on TV rather than movies in recent years.
-Clustering similar content by matching text-based features
+This multi-faceted approach will help us uncover valuable patterns and trends within the dataset. Moreover we will identify the key anamolies and try to work upon it.
+
+A concluding statement will not only summarize our findings but also empower audiences to derive value and fuel their own projects with these actionable insights.
